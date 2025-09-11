@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:moviles/pages/restaurant/restaurant_page.dart';
 import 'package:moviles/pages/user/user_page.dart';
 
-import '';
 
 class UsersPage extends StatelessWidget {
   const UsersPage({super.key});
