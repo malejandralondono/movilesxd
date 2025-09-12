@@ -10,6 +10,7 @@ Widget build(BuildContext context) {
     appBar: AppBar(
       backgroundColor: Colors.white,
       title: Text(""),
+      surfaceTintColor: Colors.white,
     ),
     backgroundColor: Colors.white,
     body:SingleChildScrollView(
